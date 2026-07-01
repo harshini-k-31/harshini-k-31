@@ -123,9 +123,6 @@ https://github.com/harshini-k-31/NM
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-🌐 Portfolio
-</a>
 
 </p>
 
