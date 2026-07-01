@@ -6,7 +6,7 @@
 
 ### 🚀 Building scalable infrastructure, automation & intelligent systems
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshini-k-31&theme=onedark&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -76,64 +76,26 @@ Hybrid Deep Learning model using
 - Kaggle dataset support
 
 🔗 Repository:
-https://github.com/YOUR_USERNAME/PROJECT
+https://github.com/harshini-k-31/NM
 
 ---
 
-## ☁️ DevOps Portfolio Website
 
-Personal portfolio showcasing
 
-- Projects
-- Skills
-- Experience
-- Contact
-- Responsive Design
-
-🔗 Repository:
-https://github.com/YOUR_USERNAME/PORTFOLIO
-
-🌐 Live:
-https://YOURDOMAIN.com
-
----
-
-## 🐳 Docker & Linux Labs
-
-Collection of
-
-- Docker
-- Linux
-- Shell Scripting
-- Networking
-- Jenkins
-- Kubernetes
-
----
-
-## 📊 Machine Learning Projects
-
-- Classification
-- Deep Learning
-- Feature Engineering
-- Data Visualization
-- Model Deployment
-
----
 
 # 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshini-k-31&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshini-k-31&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini-k-31&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -141,7 +103,7 @@ Collection of
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshini-k-31&theme=tokyo-night"/>
 
 ---
 
@@ -153,11 +115,11 @@ Collection of
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/harshini-k-31">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:harshini2k6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
